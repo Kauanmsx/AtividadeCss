@@ -1,0 +1,17 @@
+@echo off
+echo ========= GIT AUTO COMMIT =========
+
+REM Etapa 1: Adiciona tudo (inclusive deletados)
+git add -A
+
+REM Etapa 2: Solicita mensagem do commit
+set /p COMMIT_MSG="Digite a mensagem do commit: "
+
+REM Etapa 3: Realiza o commit
+git commit -m "%COMMIT_MSG%"
+
+REM Etapa 4: Faz push
+git push origin main
+
+echo ======= FINALIZADO =======
+pause
