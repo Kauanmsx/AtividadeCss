@@ -30,10 +30,11 @@ Este projeto foi criado com o objetivo de fortalecer conhecimentos em desenvolvi
 ```bash
 AtividadeCss/
 │
-├── index.html
+├── code.js
 ├── style.css
-├── assets/
+├── index.html
 └── README.md
+├── git-auto.bat.txt
 ```
 
 ## 💻 Como Executar
