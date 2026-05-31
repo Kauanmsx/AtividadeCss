@@ -53,13 +53,6 @@ cd AtividadeCss
 
 Abra o arquivo `index.html` no navegador.
 
-## 📸 Preview
-
-Adicione uma imagem do projeto aqui:
-
-```md
-![Preview](./assets/preview.png)
-```
 
 ## 📈 Aprendizados
 
